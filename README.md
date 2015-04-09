@@ -8,4 +8,4 @@ or if you are lazy, you can use it to pave your in-game superhighway.
 
 This mod has ideas and code from aldobr, Dan Duncombe, Arcanus, kpoppel, and Ardonel.
 
-Also added are a carbon-diamond pickaxe as an additional tool.
+Also added is a carbon-diamond pickaxe as an additional tool.
