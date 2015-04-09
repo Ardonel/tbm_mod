@@ -9,7 +9,11 @@ Also added is a carbon-diamond pickaxe as an additional tool.
 
 
 aldobr ideas and work are under WTFPL license.
+
 Dan Duncombe ideas and work are under CC-by-SA
+
 Arcanus ideas and work are ?
+
 kpoppel ideas and work are ?
+
 Ardonel ideas and work are ?
