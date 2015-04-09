@@ -1,6 +1,3 @@
-# tbm_mod
-# Repo for my TBM Reloaded Mod
-
 Tunnel boring machine.
 
 This mod adds a tunnel boring machine that can be used to make tunnels underground,
